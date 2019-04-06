@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Upcomingtrips.xsl"?>
+<catalog>
+  <cd>
+    <city>Delhi</city>
+    <duration>3 Days | 2 Nights</duration>
+    <packcost>Rs 20,000</packcost>
+  </cd>
+    <cd>
+    <city>Jaipur</city>
+    <duration>4 Days | 3 Nights</duration>
+    <packcost>Rs 35,000</packcost>
+  </cd>
+    <cd>
+    <city>Shimla</city>
+    <duration>5 Days | 4 Nights</duration>
+    <packcost>Rs 40,000</packcost>
+  </cd>
+</catalog>
